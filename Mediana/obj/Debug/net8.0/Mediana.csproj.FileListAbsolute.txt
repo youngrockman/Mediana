@@ -12,3 +12,4 @@ C:\Users\prdb\source\repos\Mediana\Mediana\obj\Debug\net8.0\refint\Mediana.dll
 C:\Users\prdb\source\repos\Mediana\Mediana\obj\Debug\net8.0\Mediana.pdb
 C:\Users\prdb\source\repos\Mediana\Mediana\obj\Debug\net8.0\Mediana.genruntimeconfig.cache
 C:\Users\prdb\source\repos\Mediana\Mediana\obj\Debug\net8.0\ref\Mediana.dll
+C:\Users\prdb\source\repos\Mediana\Mediana\obj\Debug\net8.0\Mediana.sourcelink.json

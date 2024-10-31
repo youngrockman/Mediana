@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mediana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3563c36654fe7a7541683a2869253cfc47b7fdcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mediana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mediana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
